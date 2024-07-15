@@ -15,6 +15,39 @@ A tutorial to evolve markdown documents and notebooks into structured data.
 
 ## Things you can do
 
+## Grids
+
+::::{grid} 1 2 2 2
+
+:::{card}
+:header: **Instructor Name**
+
+![Instructor Name](images/firefly.jpg)
+
++++
+
+* **Office Hours**: Tue 11-12pm (Evans 4019)
+* **Pronouns**: She/Her
+* [instructor@berkeley.edu](mailto:instructor@berkeley.edu)
+:::
+
+:::{card}
+:header: **GSI Name**
+
+![Instructor Name](images/firefly.jpg)
+
++++
+
+* **Office Hours**: MW 2-3pm (Evans 3137)
+* **Pronouns**: She/Her
+* [gsi-name@berkeley.edu](mailto:gsi-name@berkeley.edu)
+
+:::
+
+::::
+
+
+
 ### Markdown syntax
 
 **Bold** and *italic* and {del}`strikethrough` text. 
