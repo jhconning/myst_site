@@ -6,7 +6,7 @@ project:
   # description:
   # keywords: []
   authors: [Jonathan Conning]
-  github: 
+  github: https://github.com/jhconning/myst_site
   jupyter: true
  
   toc:
@@ -20,9 +20,9 @@ project:
         - file: docs\cournot.md
         - file: docs\Dynamics Improved.ipynb
         
-    
 site:
   template: book-theme
+  logo_text: Jonathan's Book
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
