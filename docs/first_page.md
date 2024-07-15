@@ -7,6 +7,10 @@ author:
     email: jconning@hunter.cuny.edu
 abstract: |
   We introduce, a set of open-source, community-driven ...
+kernelspec:
+  display_name: Python 3
+  language: python
+  name: python3
 license:
   code: MIT
 date: 2024/06/24
@@ -62,6 +66,16 @@ Equations:
 e=mc^2  
 :::
 
+
+## Code blocks
+
+This is the mean of some random numbers using numpy.
+
+```{code-cell} python3
+import numpy as np
+mean = np.mean(np.random.normal(size=100))
+print(f"{mean=}")
+```
 
 
 
